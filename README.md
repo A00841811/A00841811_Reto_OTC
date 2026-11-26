@@ -13,10 +13,14 @@
 Soporte Analítico para la Toma de Decisiones  
 Grupo 301 · Equipo 3
 
+Profesoras<br>
+Claudia Aja Leyva<br>
+Maria Imelda Valdez <br>
+
 **Daniela Benítez Mendoza**  
 **Matrícula: A00841811**
 
-Noviembre 2026
+Noviembre 26, 2026
 
 </div>
 
