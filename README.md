@@ -5,8 +5,7 @@
 # Evidencia 1
 ## Video individual de etapas iniciales
 
-### Reto de Business Intelligence
-### OT Consulting
+### Reto OT Consulting
 
 **Tecnológico de Monterrey — Campus Monterrey**
 
